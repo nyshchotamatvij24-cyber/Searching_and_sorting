@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Searching_and_sorting/Searching_and_sorting.vcxproj" />
+</Solution>
